@@ -71,7 +71,7 @@ jobs:
       run: npm start
 ```
 
-[![FORK TAKA_LITE](https://img.shields.io/badge/FORK%20-KERM%20MD%20V4-white)](https://github.com/Takatech85/TAKA-LITE/fork)
+[![FORK TAKA_LITE](https://img.shields.io/badge/FORK%20-TAKA%20MD%20LITE-white)](https://github.com/Takatech85/TAKA-LITE/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
