@@ -17,7 +17,7 @@
 --------
 
 <p align="center">
-<a href="https://github.com/Takatech85/"><img title="Followers" src="https://img.shields.io/github/followers/Kgtech-cmr?color=blue&style=flat-square"></a>
+<a href="https://github.com/Takatech85/"><img title="Followers" src="https://img.shields.io/github/followers/Takatech85?color=blue&style=flat-square"></a>
 <a href="https://github.com/Takatech85/TAKA-LITE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Takatech85/TAKA-LITE?color=blue&style=flat-square"></a>
 <a href="https://github.com/Takatech85/TAKA-LITE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Takatech85/TAKA-LITE?color=blue&style=flat-square"></a>
 <a href="https://github.com/Takatech85/TAKA-LITE/"><img title="Size" src="https://img.shields.io/github/repo-size/Takatech85/TAKA-LITE?style=flat-square&color=blue"></a>
